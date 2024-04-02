@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello world</h1>
         <p>
-        Hello world2
+        Hello world23
         f322 <code>src/App.tsx</code> and save to reload.
         </p>
         <a
